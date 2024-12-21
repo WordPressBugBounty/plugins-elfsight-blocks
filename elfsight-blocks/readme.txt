@@ -33,17 +33,17 @@ Elfsight provides you with a wide range of blocks right for your WordPress websi
 
 = Introduce these blocks into your website without effort: =
 
-<strong>Social Feed</strong> - Add [Instagram](https://elfsight.com/instagram-feed-instashow/wordpress/), Facebook, Twitter, [LinkedIn](https://elfsight.com/linkedin-feed-widget/wordpress/) or Pinterest Feed to your WordPress website. Keep your audience connected with your social media and get new followers easily with automatic updates and fresh content every day.
+<strong>Social Feed</strong> - Add [Instagram](https://elfsight.com/instagram-feed-instashow/wordpress/?utm_source=portals&utm_medium=wordpress-org&utm_campaign=elfsight-blocks-wordpress&utm_term=list&utm_content=description), Facebook, Twitter, [LinkedIn](https://elfsight.com/linkedin-feed-widget/wordpress/?utm_source=portals&utm_medium=wordpress-org&utm_campaign=elfsight-blocks-wordpress&utm_term=list&utm_content=description) or Pinterest Feed to your WordPress website. Keep your audience connected with your social media and get new followers easily with automatic updates and fresh content every day.
 
-<strong>Reviews</strong> - Showcase testimonials from [Google](https://elfsight.com/google-reviews-widget/wordpress/), Airbnb, Tripadvisor, Amazon and [other resources](https://elfsight.com/all-in-one-reviews-widget/wordpress/) on your WordPress page and prove to your audience you’re a reliable partner. Draw new purchases and uplevel social trust.
+<strong>Reviews</strong> - Showcase testimonials from [Google](https://elfsight.com/google-reviews-widget/wordpress/?utm_source=portals&utm_medium=wordpress-org&utm_campaign=elfsight-blocks-wordpress&utm_term=list&utm_content=description), Airbnb, Tripadvisor, Amazon and [other resources](https://elfsight.com/all-in-one-reviews-widget/wordpress/?utm_source=portals&utm_medium=wordpress-org&utm_campaign=elfsight-blocks-wordpress&utm_term=list&utm_content=description) on your WordPress page and prove to your audience you’re a reliable partner. Draw new purchases and uplevel social trust.
 
-<strong>Chats</strong> - Provide your audience with a fast way to connect to you through [Whatsapp](https://elfsight.com/whatsapp-chat-widget/wordpress/), Facebook, Telegram and other popular messengers. Use diverse display positions, select categories of visitors who can see the chat, add your company logo and caption text, show an inviting welcome message and more.
+<strong>Chats</strong> - Provide your audience with a fast way to connect to you through [Whatsapp](https://elfsight.com/whatsapp-chat-widget/wordpress/?utm_source=portals&utm_medium=wordpress-org&utm_campaign=elfsight-blocks-wordpress&utm_term=list&utm_content=description), Facebook, Telegram and other popular messengers. Use diverse display positions, select categories of visitors who can see the chat, add your company logo and caption text, show an inviting welcome message and more.
 
 <strong>Ecommerce</strong> - Boost sales by means of our Countdown Timer, Pricing Table, Popup and Click to Call button. Create feeling of scarcity, remind your users of upcoming sales period and represent your payment plans easily. Make the best of your sales strategy!
 
 <strong>Form Builder</strong> - Create various filling forms for your WordPress homepage and collect insights from your current and potential customers. Design feedback forms, rating requests and other formats. Make data collection a breeze!
 
-<strong>File Embed</strong> - Insert files of all popular formats into the pages of your WordPress website. Attach the following types: PDF, Docx, Xlsx, Jpeg, and other formatsю Embed your certificates, technical documentation, instructions, and more in a few seconds!
+<strong>File Embed</strong> - Insert files of all popular formats into the pages of your WordPress website. Attach the following types: PDF, Docx, Xlsx, Jpeg, and other formats. Embed your certificates, technical documentation, instructions, and more in a few seconds!
 
 <strong>Galleries and Sliders</strong> - Capture users’ attention with attractive galleries and sliders on your WordPress website! Use our Slider, Photo Gallery or Portfolio to showcase visual content the most representative way. Add visual effects and scale the image / video size the way you need swiftly.
 
@@ -51,7 +51,7 @@ Elfsight provides you with a wide range of blocks right for your WordPress websi
 
 <strong>Audio</strong> - Playback audio tracks, books, podcasts and radio shows on the pages of your WordPress website. Entertain and educate your audience with our extremely customizable tools and diversify the content types on your web page easily.
 
-<strong>Others</strong> - Choose the block for almost any use case: FAQ, [Event Calendar](https://elfsight.com/event-calendar-widget/wordpress/), Weather and many more.
+<strong>Others</strong> - Choose the block for almost any use case: FAQ, [Event Calendar](https://elfsight.com/event-calendar-widget/wordpress/?utm_source=portals&utm_medium=wordpress-org&utm_campaign=elfsight-blocks-wordpress&utm_term=list&utm_content=description), Weather and many more.
 
 [Check the whole list of our WordPress blocks](https://elfsight.com/wordpress-plugins/?utm_source=portals&utm_medium=wordpress-org&utm_campaign=elfsight-blocks-wordpress&utm_term=list&utm_content=description) and find the ones that suit you best!
 
