@@ -1,10 +1,10 @@
 {
     "name": "elfsight-embed-wp-block",
-    "version": "1.1.0",
+    "version": "1.2.1",
     "description": "",
     "scripts": {
-        "dev": "webpack --mode=development --watch",
-        "production": "webpack --mode=production"
+        "dev": "NODE_OPTIONS=--openssl-legacy-provider webpack --mode=development --watch",
+        "production": "NODE_OPTIONS=--openssl-legacy-provider webpack --mode=production"
     },
     "repository": {
         "type": "git",
@@ -25,6 +25,6 @@
         "webpack-cli": "^3.3.10"
     },
     "dependencies": {
-        "@elfsight/embed-sdk": "^0.3.3"
+        "@elfsight/embed-sdk": "^0.3.4"
     }
 }

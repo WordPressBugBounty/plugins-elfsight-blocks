@@ -3,7 +3,7 @@
 Plugin Name: Elfsight Blocks
 Description: Custom Gutenberg Blocks to embed the Elfsight Widgets.
 Plugin URI: https://elfsight.com/developers/wp-blocks/?utm_source=portals&utm_medium=wordpress-org&utm_campaign=elfsight-blocks-wordpress&utm_content=plugin-site
-Version: 1.1.0
+Version: 1.2.1
 Author: Elfsight
 Author URI: https://elfsight.com/?utm_source=portals&utm_medium=wordpress-org&utm_campaign=elfsight-blocks-wordpress&utm_content=plugins-list
 */
@@ -18,7 +18,7 @@ final class ElfsightBlocks
      *
      * @var string
      */
-    const VERSION = '1.1.0';
+    const VERSION = '1.2.1';
 
     /**
      * Text Domain

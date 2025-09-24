@@ -37,14 +37,11 @@ const glyphIcon = () => (
 
 const makeUrlIcon = url => (
   <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink"
-       style={{marginRight: 0}}>
-    <image xlinkHref={formatUrl(url)} width="24" height="24"/>
+       style={{ marginRight: 0, fill: '#fe2d63' }}>
+    <image xlinkHref={url} width="24" height="24"/>
   </svg>
 );
 
-const formatUrl = url => url.includes('https://') ? url : `${BASE_URL}${url}`;
-
-const BASE_URL = 'https://apps.elfsight.com';
 const EMBED_CATEGORY = 'embed';
 const ELFSIGHT_CATEGORY = 'elfsight';
 
